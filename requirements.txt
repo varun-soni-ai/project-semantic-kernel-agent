@@ -1,0 +1,14 @@
+semantic-kernel==0.9.1b1
+fastapi==0.110.0
+uvicorn==0.27.1
+python-dotenv==1.0.1
+openai==1.14.0
+azure-storage-blob==12.19.0
+pymssql==2.2.11
+sqlalchemy==2.0.28
+langchain==0.1.11
+langchain-openai==0.1.1
+pandas==2.2.0
+numpy==1.26.4
+matplotlib==3.8.3
+seaborn==0.13.1
